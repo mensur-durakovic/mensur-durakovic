@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Mensur Duraković</h1>
-<h3 align="center">I am a software engineer with 6+ years of active professional experience in advanced and modern web technologies. Proficient understanding of web markup, including HTML, CSS, JavaScript, TypeScript and React. Also comfortable with back end technologies like NodeJS, REST API's, GraphQL and databases. Primarily worked for companies that are specialised in enterprise web solutions. Besides that, I also enjoy teaching, lecturing, writing and motivating other people. Working part-time as Assistant professor in the University Department of Professional Studies and lecturer at Algebra.</h3>
+<h3 align="center">I am a software engineer with 8+ years of active professional experience in advanced and modern web technologies. Proficient understanding of web markup, including HTML, CSS, JavaScript, TypeScript and React. Also comfortable with back end technologies like NodeJS, REST API's, GraphQL and databases. Primarily worked for companies that are specialised in enterprise web solutions. Besides that, I also enjoy teaching, lecturing, writing and motivating other people. Working part-time as Assistant professor in the University Department of Professional Studies and lecturer at Algebra.</h3>
 
 - 🌱 I’m currently learning **Flutter and Solidity**
 
